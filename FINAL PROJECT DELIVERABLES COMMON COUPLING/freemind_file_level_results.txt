@@ -1,0 +1,1413 @@
+We found 457 static variables and 253 global variables used in at least one external file.
+
+1. 8 external files used global variable ONLY_OK_SELECTION_IS_STORED
+FILES: CutAction.java, DeleteChildAction.java, DontShowAgainDialogTests (2).java, DontShowAgainDialogTests.java, MindMapMapModel.java, RemoveNote.java, ScriptingEngine.java, SearchInMapForNodeTextAction.java, 
+GLOBAL VARIABLE: ONLY_OK_SELECTION_IS_STORED from FILE: OptionalDontShowMeAgainDialog.java
+
+2. 7 external files used global variable WIDTH_THIN
+FILES: ApplyPatternAction.java, EdgeView.java, EdgeWidthAction.java, MindMapController.java, StylePattern.java, StylePatternFrame.java, XMLElementAdapter.java, 
+GLOBAL VARIABLE: WIDTH_THIN from FILE: EdgeAdapter.java
+
+3. 7 external files used global variable FREEMIND_FILE_EXTENSION
+FILES: ControllerAdapter.java, ExportBranchAction.java, FreeMind.java, ImportMindmanagerFiles.java, MindMapController.java, MindMapMapModel.java, PasteAction.java, 
+GLOBAL VARIABLE: FREEMIND_FILE_EXTENSION from FILE: FreeMindCommon.java
+
+4. 6 external files used global variable STYLE_FORK
+FILES: FileNodeModel.java, ForkMainView.java, MindMapController.java, NodeAdapter.java, NodeViewFactory.java, OptionPanel.java, 
+GLOBAL VARIABLE: STYLE_FORK from FILE: MindMapNode.java
+
+5. 5 external files used global variable CHECK_SPELLING
+FILES: EditNodeBase.java, EditNodeTextField.java, FreeMind.java, NodeNoteRegistration.java, OptionPanel.java, 
+GLOBAL VARIABLE: CHECK_SPELLING from FILE: FreeMindCommon.java
+
+6. 5 external files used global variable LAST
+FILES: IconAction.java, NodeAdapter.java, RemoveAllIconsAction.java, RemoveIconAction.java, XMLElementAdapter.java, 
+GLOBAL VARIABLE: LAST from FILE: MindIcon.java
+
+7. 5 external files used global variable STYLE_BUBBLE
+FILES: BubbleMainView.java, MindMapController.java, NodeAdapter.java, NodeViewFactory.java, OptionPanel.java, 
+GLOBAL VARIABLE: STYLE_BUBBLE from FILE: MindMapNode.java
+
+8. 5 external files used global variable BOTH_OK_AND_CANCEL_OPTIONS_ARE_STORED
+FILES: ClonePasteAction.java, DontShowAgainDialogTests (2).java, DontShowAgainDialogTests.java, EditAction.java, MindMapController.java, 
+GLOBAL VARIABLE: BOTH_OK_AND_CANCEL_OPTIONS_ARE_STORED from FILE: OptionalDontShowMeAgainDialog.java
+
+9. 4 external files used global variable SHOW_ALL
+FILES: AttributePopupMenu.java, AttributeRegistry.java, AttributeView.java, Controller.java, 
+GLOBAL VARIABLE: SHOW_ALL from FILE: AttributeTableLayoutModel.java
+
+10. 4 external files used global variable RESOURCE_DRAW_RECTANGLE_FOR_SELECTION
+FILES: Controller.java, FreeMindApplet.java, MapView.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCE_DRAW_RECTANGLE_FOR_SELECTION from FILE: FreeMind.java
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FILES: Registration.java, 
+GLOBAL VARIABLE: NODE_CONTEXT_PLUGIN_NAME from FILE: AddLinkToMapAction.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: NODE_CONTEXT_PLUGIN_NAME from FILE: AddMapImageToNodeAction.java
+
+FILES: 
+GLOBAL VARIABLE: DEF_STROKE from FILE: ArrowLinkView.java
+
+FILES: 
+GLOBAL VARIABLE: COMPARATION_RESULT from FILE: AttributeCompareCondition.java
+
+FILES: 
+GLOBAL VARIABLE: ATTRIBUTE from FILE: AttributeCompareCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: AttributeCompareCondition.java
+
+FILES: 
+GLOBAL VARIABLE: SUCCEED from FILE: AttributeCompareCondition.java
+
+FILES: 
+GLOBAL VARIABLE: ATTRIBUTE from FILE: AttributeExistsCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: AttributeExistsCondition.java
+
+FILES: AttributeRegistryTable.java, 
+GLOBAL VARIABLE: editButtonImage from FILE: AttributeManagerDialog.java
+
+FILES: 
+GLOBAL VARIABLE: ATTRIBUTE from FILE: AttributeNotExistsCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: AttributeNotExistsCondition.java
+
+FILES: MindMapModeAttributeController.java, SetAttributeRestrictedActor.java, 
+GLOBAL VARIABLE: GLOBAL from FILE: AttributeRegistry.java
+
+FILES: Controller.java, 
+GLOBAL VARIABLE: SHOW_SELECTED from FILE: AttributeTableLayoutModel.java
+
+FILES: AttributePopupMenu.java, AttributeRegistry.java, AttributeView.java, Controller.java, 
+GLOBAL VARIABLE: SHOW_ALL from FILE: AttributeTableLayoutModel.java
+
+FILES: AttributeView.java, Controller.java, 
+GLOBAL VARIABLE: HIDE_ALL from FILE: AttributeTableLayoutModel.java
+
+FILES: NodeAttributeTableModel.java, XMLElementAdapter.java, 
+GLOBAL VARIABLE: DEFAULT_COLUMN_WIDTH from FILE: AttributeTableLayoutModel.java
+
+FILES: 
+GLOBAL VARIABLE: colors from FILE: BlinkingNodeHook.java
+
+FILES: Controller.java, 
+GLOBAL VARIABLE: FALSE_VALUE from FILE: BooleanProperty.java
+
+FILES: Controller.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: TRUE_VALUE from FILE: BooleanProperty.java
+
+FILES: Controller.java, 
+GLOBAL VARIABLE: MODENAME from FILE: BrowseMode.java
+
+FILES: 
+GLOBAL VARIABLE: BROWSE_URL_STORAGE_KEY from FILE: BrowseToolBar.java
+
+FILES: NodeFoldingComponent.java, NodeView.java, 
+GLOBAL VARIABLE: DEF_STROKE from FILE: BubbleMainView.java
+
+FILES: 
+GLOBAL VARIABLE: CANCEL from FILE: ChooseFormatPopupDialog.java
+
+FILES: ApplyFormatPlugin.java, AutomaticLayout.java, ManagePatterns.java, 
+GLOBAL VARIABLE: OK from FILE: ChooseFormatPopupDialog.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: ClonePasteAction.java
+
+FILES: ClonePasteAction.java, 
+GLOBAL VARIABLE: CLONE_ITSELF_FALSE from FILE: ClonePlugin.java
+
+FILES: ClonePasteAction.java, 
+GLOBAL VARIABLE: CLONE_ITSELF_TRUE from FILE: ClonePlugin.java
+
+FILES: ClonePasteAction.java, 
+GLOBAL VARIABLE: PLUGIN_LABEL from FILE: ClonePlugin.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_CLONES from FILE: ClonePlugin.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_CLONE_ID from FILE: ClonePlugin.java
+
+FILES: ClonePasteAction.java, 
+GLOBAL VARIABLE: XML_STORAGE_CLONE_ITSELF from FILE: ClonePlugin.java
+
+FILES: 
+GLOBAL VARIABLE: RESOURCES_STANDARDCLOUDSTYLE from FILE: CloudAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: DEF_STROKE from FILE: CloudAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: DEF_STROKE from FILE: CloudView.java
+
+FILES: 
+GLOBAL VARIABLE: ROUNDTRIP_ROUNDS from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: ROUNDTRIP_TIMEOUT from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: STATE_IDLE from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: STATE_WAIT_FOR_HELLO from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: STATE_WAIT_FOR_COMMAND from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: STATE_WAIT_FOR_WHO_ARE_YOU from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: STATE_WAIT_FOR_WELCOME from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: STATE_WAIT_FOR_LOCK from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: STATE_LOCK_RECEIVED from FILE: CommunicationBase.java
+
+FILES: 
+GLOBAL VARIABLE: IGNORE_CASE from FILE: CompareConditionAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: VALUE from FILE: CompareConditionAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: FREEMIND_PACKAGE from FILE: CompileXsdStart.java
+
+FILES: 
+GLOBAL VARIABLE: FILTER_ICON from FILE: ConditionFactory.java
+
+FILES: IgnoreCaseNodeContainsCondition.java, NodeCompareCondition.java, NodeContainsCondition.java, 
+GLOBAL VARIABLE: FILTER_NODE from FILE: ConditionFactory.java
+
+FILES: AttributeNotExistsCondition.java, 
+GLOBAL VARIABLE: FILTER_DOES_NOT_EXIST from FILE: ConditionFactory.java
+
+FILES: AttributeExistsCondition.java, 
+GLOBAL VARIABLE: FILTER_EXIST from FILE: ConditionFactory.java
+
+FILES: IgnoreCaseNodeContainsCondition.java, NodeContainsCondition.java, 
+GLOBAL VARIABLE: FILTER_CONTAINS from FILE: ConditionFactory.java
+
+FILES: 
+GLOBAL VARIABLE: FILTER_NOT_CONTAINS from FILE: ConditionFactory.java
+
+FILES: CompareConditionAdapter.java, 
+GLOBAL VARIABLE: FILTER_IS_NOT_EQUAL_TO from FILE: ConditionFactory.java
+
+FILES: CompareConditionAdapter.java, 
+GLOBAL VARIABLE: FILTER_IS_EQUAL_TO from FILE: ConditionFactory.java
+
+FILES: CompareConditionAdapter.java, 
+GLOBAL VARIABLE: FILTER_LE from FILE: ConditionFactory.java
+
+FILES: CompareConditionAdapter.java, 
+GLOBAL VARIABLE: FILTER_LT from FILE: ConditionFactory.java
+
+FILES: CompareConditionAdapter.java, 
+GLOBAL VARIABLE: FILTER_GE from FILE: ConditionFactory.java
+
+FILES: CompareConditionAdapter.java, 
+GLOBAL VARIABLE: FILTER_GT from FILE: ConditionFactory.java
+
+FILES: 
+GLOBAL VARIABLE: FILTER_IGNORE_CASE from FILE: ConditionFactory.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: ConditionNotSatisfiedDecorator.java
+
+FILES: 
+GLOBAL VARIABLE: SELECTED_BACKGROUND from FILE: ConditionRenderer.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: ConjunctConditions.java
+
+FILES: 
+GLOBAL VARIABLE: localDocumentationLinkConverter from FILE: Controller.java
+
+FILES: MapView.java, 
+GLOBAL VARIABLE: JAVA_VERSION from FILE: Controller.java
+
+FILES: 
+GLOBAL VARIABLE: SLAVE_HOOK_NAME from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: SLAVE_STARTER_NAME from FILE: DatabaseBasics.java
+
+FILES: UpdateThread.java, 
+GLOBAL VARIABLE: ROW_PK from FILE: DatabaseBasics.java
+
+FILES: UpdateThread.java, 
+GLOBAL VARIABLE: ROW_ACTION from FILE: DatabaseBasics.java
+
+FILES: UpdateThread.java, 
+GLOBAL VARIABLE: TABLE_XML_ACTIONS from FILE: DatabaseBasics.java
+
+FILES: UpdateThread.java, 
+GLOBAL VARIABLE: TABLE_USERS from FILE: DatabaseBasics.java
+
+FILES: UpdateThread.java, 
+GLOBAL VARIABLE: ROW_UNDOACTION from FILE: DatabaseBasics.java
+
+FILES: UpdateThread.java, 
+GLOBAL VARIABLE: ROW_MAP from FILE: DatabaseBasics.java
+
+FILES: UpdateThread.java, 
+GLOBAL VARIABLE: ROW_USER from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: ROLE_MASTER from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: ROLE_SLAVE from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD_DESCRIPTION from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD_VERIFICATION from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD_VERIFICATION_DESCRIPTION from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: HOST from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: HOST_DESCRIPTION from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PORT from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PORT_DESCRIPTION from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: TITLE from FILE: DatabaseBasics.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: DatabaseBasics.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: DisjunctConditions.java
+
+FILES: ApplyPatternAction.java, XMLElementAdapter.java, 
+GLOBAL VARIABLE: EDGE_WIDTH_THIN_STRING from FILE: EdgeAdapter.java
+
+FILES: EdgeWidthAction.java, MindMapController.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: WIDTH_PARENT from FILE: EdgeAdapter.java
+
+FILES: ApplyPatternAction.java, EdgeView.java, EdgeWidthAction.java, MindMapController.java, StylePattern.java, StylePatternFrame.java, XMLElementAdapter.java, 
+GLOBAL VARIABLE: WIDTH_THIN from FILE: EdgeAdapter.java
+
+FILES: MindMapController.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: EDGESTYLE_LINEAR from FILE: EdgeAdapter.java
+
+FILES: MindMapController.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: EDGESTYLE_BEZIER from FILE: EdgeAdapter.java
+
+FILES: MindMapController.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: EDGESTYLE_SHARP_LINEAR from FILE: EdgeAdapter.java
+
+FILES: MindMapController.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: EDGESTYLE_SHARP_BEZIER from FILE: EdgeAdapter.java
+
+FILES: NodeViewFactory.java, 
+GLOBAL VARIABLE: INT_EDGESTYLE_LINEAR from FILE: EdgeAdapter.java
+
+FILES: NodeViewFactory.java, 
+GLOBAL VARIABLE: INT_EDGESTYLE_BEZIER from FILE: EdgeAdapter.java
+
+FILES: ForkMainView.java, NodeViewFactory.java, 
+GLOBAL VARIABLE: INT_EDGESTYLE_SHARP_LINEAR from FILE: EdgeAdapter.java
+
+FILES: ForkMainView.java, NodeViewFactory.java, 
+GLOBAL VARIABLE: INT_EDGESTYLE_SHARP_BEZIER from FILE: EdgeAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: DEF_STROKE from FILE: EdgeView.java
+
+FILES: 
+GLOBAL VARIABLE: ECLIPSED_STROKE from FILE: EdgeView.java
+
+FILES: 
+GLOBAL VARIABLE: checkSpelling from FILE: EditNodeBase.java
+
+FILES: 
+GLOBAL VARIABLE: BUTTON_OK from FILE: EditNodeBase.java
+
+FILES: 
+GLOBAL VARIABLE: BUTTON_CANCEL from FILE: EditNodeBase.java
+
+FILES: 
+GLOBAL VARIABLE: BUTTON_SPLIT from FILE: EditNodeBase.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: EditNodeTextField.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: EditServer.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: EncryptedBrowseNode.java
+
+FILES: 
+GLOBAL VARIABLE: CANCEL from FILE: EnterPasswordDialog (2).java
+
+FILES: 
+GLOBAL VARIABLE: OK from FILE: EnterPasswordDialog (2).java
+
+FILES: EncryptedBrowseNode.java, EncryptNode.java, SignedScriptHandler.java, 
+GLOBAL VARIABLE: CANCEL from FILE: EnterPasswordDialog.java
+
+FILES: 
+GLOBAL VARIABLE: OK from FILE: EnterPasswordDialog.java
+
+FILES: FilterInfo.java, 
+GLOBAL VARIABLE: FILTER_INITIAL_VALUE from FILE: Filter.java
+
+FILES: FilterInfo.java, 
+GLOBAL VARIABLE: FILTER_SHOW_MATCHED from FILE: Filter.java
+
+FILES: FilterInfo.java, 
+GLOBAL VARIABLE: FILTER_SHOW_ANCESTOR from FILE: Filter.java
+
+FILES: FilterInfo.java, 
+GLOBAL VARIABLE: FILTER_SHOW_DESCENDANT from FILE: Filter.java
+
+FILES: 
+GLOBAL VARIABLE: FILTER_SHOW_ECLIPSED from FILE: Filter.java
+
+FILES: FilterInfo.java, 
+GLOBAL VARIABLE: FILTER_SHOW_HIDDEN from FILE: Filter.java
+
+FILES: 
+GLOBAL VARIABLE: filter from FILE: FilterComposerDialog.java
+
+FILES: FilterComposerDialog.java, FilterToolbar.java, 
+GLOBAL VARIABLE: FREEMIND_FILTER_EXTENSION_WITHOUT_DOT from FILE: FilterController.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: J_SPLIT_PANE_SPLIT_TYPE from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: VERTICAL_SPLIT_BELOW from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: HORIZONTAL_SPLIT_RIGHT from FILE: FreeMind.java
+
+FILES: LogFileViewer.java, 
+GLOBAL VARIABLE: LOG_FILE_NAME from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCE_LOOKANDFEEL from FILE: FreeMind.java
+
+FILES: Controller.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_SELECTION_METHOD from FILE: FreeMind.java
+
+FILES: NodeAdapter.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_NODE_STYLE from FILE: FreeMind.java
+
+FILES: NodeAdapter.java, OptionPanel.java, RootMainView.java, 
+GLOBAL VARIABLE: RESOURCES_ROOT_NODE_STYLE from FILE: FreeMind.java
+
+FILES: MapView.java, OptionPanel.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: RESOURCES_NODE_TEXT_COLOR from FILE: FreeMind.java
+
+FILES: MapView.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_SELECTED_NODE_COLOR from FILE: FreeMind.java
+
+FILES: MapView.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_SELECTED_NODE_RECTANGLE_COLOR from FILE: FreeMind.java
+
+FILES: Controller.java, FreeMindApplet.java, MapView.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCE_DRAW_RECTANGLE_FOR_SELECTION from FILE: FreeMind.java
+
+FILES: EdgeAdapter.java, OptionPanel.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: RESOURCES_EDGE_COLOR from FILE: FreeMind.java
+
+FILES: EdgeAdapter.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_EDGE_STYLE from FILE: FreeMind.java
+
+FILES: CloudAdapter.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_CLOUD_COLOR from FILE: FreeMind.java
+
+FILES: LinkAdapter.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_LINK_COLOR from FILE: FreeMind.java
+
+FILES: MapView.java, OptionPanel.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: RESOURCES_BACKGROUND_COLOR from FILE: FreeMind.java
+
+FILES: MapView.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCE_PRINT_ON_WHITE_BACKGROUND from FILE: FreeMind.java
+
+FILES: MindMapMouseWheelEventHandler.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_WHEEL_VELOCITY from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_USE_TABBED_PANE from FILE: FreeMind.java
+
+FILES: NodeNote.java, NodeNoteRegistration.java, 
+GLOBAL VARIABLE: RESOURCES_USE_SPLIT_PANE from FILE: FreeMind.java
+
+FILES: DeleteChildAction.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_DELETE_NODES_WITHOUT_QUESTION from FILE: FreeMind.java
+
+FILES: MindMapController.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_RELOAD_FILES_WITHOUT_QUESTION from FILE: FreeMind.java
+
+FILES: FreeMindApplet.java, 
+GLOBAL VARIABLE: VERSION from FILE: FreeMind.java
+
+FILES: MindMapMapModel.java, PasteAction.java, 
+GLOBAL VARIABLE: XML_VERSION from FILE: FreeMind.java
+
+FILES: EditAction.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_REMIND_USE_RICH_TEXT_IN_NEW_LONG_NODES from FILE: FreeMind.java
+
+FILES: OptionPanel.java, ScriptingEngine.java, 
+GLOBAL VARIABLE: RESOURCES_EXECUTE_SCRIPTS_WITHOUT_ASKING from FILE: FreeMind.java
+
+FILES: ScriptingEngine.java, ScriptingRegistration.java, 
+GLOBAL VARIABLE: RESOURCES_EXECUTE_SCRIPTS_WITHOUT_FILE_RESTRICTION from FILE: FreeMind.java
+
+FILES: ScriptingEngine.java, ScriptingRegistration.java, 
+GLOBAL VARIABLE: RESOURCES_EXECUTE_SCRIPTS_WITHOUT_NETWORK_RESTRICTION from FILE: FreeMind.java
+
+FILES: ScriptingEngine.java, ScriptingRegistration.java, 
+GLOBAL VARIABLE: RESOURCES_EXECUTE_SCRIPTS_WITHOUT_EXEC_RESTRICTION from FILE: FreeMind.java
+
+FILES: ScriptingRegistration.java, SignedScriptHandler.java, 
+GLOBAL VARIABLE: RESOURCES_SCRIPT_USER_KEY_NAME_FOR_SIGNING from FILE: FreeMind.java
+
+FILES: MindMapMapModel.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_CONVERT_TO_CURRENT_VERSION from FILE: FreeMind.java
+
+FILES: CutAction.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_CUT_NODES_WITHOUT_QUESTION from FILE: FreeMind.java
+
+FILES: NodeNoteRegistration.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_DON_T_SHOW_NOTE_ICONS from FILE: FreeMind.java
+
+FILES: OptionPanel.java, RemoveNote.java, 
+GLOBAL VARIABLE: RESOURCES_REMOVE_NOTES_WITHOUT_QUESTION from FILE: FreeMind.java
+
+FILES: OptionPanel.java, ToggleFoldedAction.java, 
+GLOBAL VARIABLE: RESOURCES_SAVE_FOLDING_STATE from FILE: FreeMind.java
+
+FILES: ScriptingEngine.java, ScriptingRegistration.java, 
+GLOBAL VARIABLE: RESOURCES_SIGNED_SCRIPT_ARE_TRUSTED from FILE: FreeMind.java
+
+FILES: NodeNoteRegistration.java, 
+GLOBAL VARIABLE: RESOURCES_USE_DEFAULT_FONT_FOR_NOTES_TOO from FILE: FreeMind.java
+
+FILES: NodeNoteRegistration.java, 
+GLOBAL VARIABLE: RESOURCES_USE_MARGIN_TOP_ZERO_FOR_NOTES from FILE: FreeMind.java
+
+FILES: ClonePasteAction.java, 
+GLOBAL VARIABLE: RESOURCES_DON_T_SHOW_CLONE_ICONS from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_DON_T_OPEN_PORT from FILE: FreeMind.java
+
+FILES: MenuBar.java, OptionPanel.java, 
+GLOBAL VARIABLE: KEYSTROKE_MOVE_MAP_LEFT from FILE: FreeMind.java
+
+FILES: MenuBar.java, OptionPanel.java, 
+GLOBAL VARIABLE: KEYSTROKE_MOVE_MAP_RIGHT from FILE: FreeMind.java
+
+FILES: MenuBar.java, OptionPanel.java, 
+GLOBAL VARIABLE: KEYSTROKE_PREVIOUS_MAP from FILE: FreeMind.java
+
+FILES: MenuBar.java, OptionPanel.java, 
+GLOBAL VARIABLE: KEYSTROKE_NEXT_MAP from FILE: FreeMind.java
+
+FILES: FindAction.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_SEARCH_IN_NOTES_TOO from FILE: FreeMind.java
+
+FILES: NodeNoteRegistration.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_DON_T_SHOW_NOTE_TOOLTIPS from FILE: FreeMind.java
+
+FILES: Registration.java, SearchInMapForNodeTextAction.java, 
+GLOBAL VARIABLE: RESOURCES_SEARCH_FOR_NODE_TEXT_WITHOUT_QUESTION from FILE: FreeMind.java
+
+FILES: ClonePasteAction.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_COMPLETE_CLONING from FILE: FreeMind.java
+
+FILES: 
+GLOBAL VARIABLE: RESOURCES_CLONE_TYPE_COMPLETE_CLONE from FILE: FreeMind.java
+
+FILES: NodeView.java, OptionPanel.java, 
+GLOBAL VARIABLE: TOOLTIP_DISPLAY_TIME from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: PROXY_PORT from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: PROXY_HOST from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: PROXY_PASSWORD from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: PROXY_USER from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: PROXY_IS_AUTHENTICATED from FILE: FreeMind.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: PROXY_USE_SETTINGS from FILE: FreeMind.java
+
+FILES: NodeFoldingComponent.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCES_DISPLAY_FOLDING_BUTTONS from FILE: FreeMind.java
+
+FILES: 
+GLOBAL VARIABLE: props from FILE: FreeMind.java
+
+FILES: 
+GLOBAL VARIABLE: version from FILE: FreeMindApplet.java
+
+FILES: 
+GLOBAL VARIABLE: defaultProps from FILE: FreeMindApplet.java
+
+FILES: 
+GLOBAL VARIABLE: userProps from FILE: FreeMindApplet.java
+
+FILES: 
+GLOBAL VARIABLE: iMaxNodeWidth from FILE: FreeMindApplet.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: FreeMindAwtFileDialog.java
+
+FILES: ControllerAdapter.java, ExportBranchAction.java, MindMapController.java, 
+GLOBAL VARIABLE: FREEMIND_FILE_EXTENSION_WITHOUT_DOT from FILE: FreeMindCommon.java
+
+FILES: ControllerAdapter.java, ExportBranchAction.java, FreeMind.java, ImportMindmanagerFiles.java, MindMapController.java, MindMapMapModel.java, PasteAction.java, 
+GLOBAL VARIABLE: FREEMIND_FILE_EXTENSION from FILE: FreeMindCommon.java
+
+FILES: Tools.java, 
+GLOBAL VARIABLE: POSTFIX_TRANSLATE_ME from FILE: FreeMindCommon.java
+
+FILES: FreeMind.java, FreeMindStarter.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCE_LANGUAGE from FILE: FreeMindCommon.java
+
+FILES: EditNodeBase.java, EditNodeTextField.java, FreeMind.java, NodeNoteRegistration.java, OptionPanel.java, 
+GLOBAL VARIABLE: CHECK_SPELLING from FILE: FreeMindCommon.java
+
+FILES: Controller.java, FreeMind.java, FreeMindApplet.java, OptionPanel.java, 
+GLOBAL VARIABLE: RESOURCE_ANTIALIAS from FILE: FreeMindCommon.java
+
+FILES: 
+GLOBAL VARIABLE: DEFAULT_LANGUAGE from FILE: FreeMindCommon.java
+
+FILES: 
+GLOBAL VARIABLE: LOCAL_PROPERTIES from FILE: FreeMindCommon.java
+
+FILES: Controller.java, FreeMind.java, 
+GLOBAL VARIABLE: ON_START_IF_NOT_SPECIFIED from FILE: FreeMindCommon.java
+
+FILES: FreeMind.java, OptionPanel.java, 
+GLOBAL VARIABLE: LOAD_LAST_MAP from FILE: FreeMindCommon.java
+
+FILES: FreeMind.java, OptionPanel.java, 
+GLOBAL VARIABLE: LOAD_LAST_MAPS_AND_LAYOUT from FILE: FreeMindCommon.java
+
+FILES: NodeAdapter.java, OptionPanel.java, 
+GLOBAL VARIABLE: SAVE_ONLY_INTRISICALLY_NEEDED_IDS from FILE: FreeMindCommon.java
+
+FILES: FreeMind.java, 
+GLOBAL VARIABLE: LOAD_NEW_MAP from FILE: FreeMindCommon.java
+
+FILES: FreeMind.java, 
+GLOBAL VARIABLE: LOAD_EVENT_DURING_STARTUP from FILE: FreeMindCommon.java
+
+FILES: Controller.java, ControllerAdapter.java, FreeMind.java, 
+GLOBAL VARIABLE: MINDMAP_LAST_STATE_MAP_STORAGE from FILE: FreeMindCommon.java
+
+FILES: FreeMindMainMock (2).java, FreeMindMainMock.java, 
+GLOBAL VARIABLE: VERSION_TYPE_ALPHA from FILE: FreeMindMain.java
+
+FILES: 
+GLOBAL VARIABLE: VERSION_TYPE_BETA from FILE: FreeMindMain.java
+
+FILES: 
+GLOBAL VARIABLE: VERSION_TYPE_RC from FILE: FreeMindMain.java
+
+FILES: 
+GLOBAL VARIABLE: VERSION_TYPE_RELEASE from FILE: FreeMindMain.java
+
+FILES: NodeView.java, 
+GLOBAL VARIABLE: ENABLE_NODE_MOVEMENT from FILE: FreeMindMain.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: FreeMindMapController.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: FreeMindPopupMenu.java
+
+FILES: 
+GLOBAL VARIABLE: JAVA_VERSION from FILE: FreeMindStarter.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: MODIFIER_SEPARATOR from FILE: GrabKeyDialog.java
+
+FILES: 
+GLOBAL VARIABLE: FREEMIND_BASE_DIR_STRING from FILE: HookDescriptorBase.java
+
+FILES: 
+GLOBAL VARIABLE: Once from FILE: HookInstanciationMethod.java
+
+FILES: 
+GLOBAL VARIABLE: OnceForRoot from FILE: HookInstanciationMethod.java
+
+FILES: 
+GLOBAL VARIABLE: OnceForAllNodes from FILE: HookInstanciationMethod.java
+
+FILES: HookDescriptorPluginAction.java, 
+GLOBAL VARIABLE: Other from FILE: HookInstanciationMethod.java
+
+FILES: 
+GLOBAL VARIABLE: ApplyToRoot from FILE: HookInstanciationMethod.java
+
+FILES: HtmlConversionTests (2).java, HtmlConversionTests.java, 
+GLOBAL VARIABLE: NBSP from FILE: HtmlTools.java
+
+FILES: HtmlConversionTests (2).java, HtmlConversionTests.java, 
+GLOBAL VARIABLE: SP from FILE: HtmlTools.java
+
+FILES: 
+GLOBAL VARIABLE: ICON from FILE: IconContainedCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: IconContainedCondition.java
+
+FILES: 
+GLOBAL VARIABLE: ICON from FILE: IconNotContainedCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: IconNotContainedCondition.java
+
+FILES: 
+GLOBAL VARIABLE: VALUE from FILE: IgnoreCaseNodeContainsCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: IgnoreCaseNodeContainsCondition.java
+
+FILES: 
+GLOBAL VARIABLE: iconFull from FILE: ImportAttributesDialog.java
+
+FILES: 
+GLOBAL VARIABLE: iconPartial from FILE: ImportAttributesDialog.java
+
+FILES: 
+GLOBAL VARIABLE: iconNotSelected from FILE: ImportAttributesDialog.java
+
+FILES: JabberListener.java, 
+GLOBAL VARIABLE: REQUEST_MAP_SHARING from FILE: JabberSender.java
+
+FILES: JabberListener.java, 
+GLOBAL VARIABLE: ACCEPT_MAP_SHARING from FILE: JabberSender.java
+
+FILES: JabberListener.java, 
+GLOBAL VARIABLE: DECLINE_MAP_SHARING from FILE: JabberSender.java
+
+FILES: JabberListener.java, 
+GLOBAL VARIABLE: STOP_MAP_SHARING from FILE: JabberSender.java
+
+FILES: 
+GLOBAL VARIABLE: DATE_PROPERTY from FILE: JCalendar.java
+
+FILES: JCalendar.java, JTripleCalendar.java, TimeManagement.java, 
+GLOBAL VARIABLE: DAY_PROPERTY from FILE: JDayChooser.java
+
+FILES: JCalendar.java, 
+GLOBAL VARIABLE: MONTH_PROPERTY from FILE: JMonthChooser.java
+
+FILES: 
+GLOBAL VARIABLE: BODY_START from FILE: JoinNodesAction.java
+
+FILES: 
+GLOBAL VARIABLE: BODY_END from FILE: JoinNodesAction.java
+
+FILES: JCalendar.java, 
+GLOBAL VARIABLE: YEAR_PROPERTY from FILE: JYearChooser.java
+
+FILES: 
+GLOBAL VARIABLE: editorTitle from FILE: JZoomedHotEqn.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: c from FILE: KeyEventTranslator.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: a from FILE: KeyEventTranslator.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: m from FILE: KeyEventTranslator.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: s from FILE: KeyEventTranslator.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: ALT_KEY_PRESSED_DISABLED from FILE: KeyEventWorkaround.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: ALTERNATIVE_DISPATCHER from FILE: KeyEventWorkaround.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: lastKeyTime from FILE: KeyEventWorkaround.java
+
+FILES: KeyEventTranslator.java, 
+GLOBAL VARIABLE: modifiers from FILE: KeyEventWorkaround.java
+
+FILES: LastStorageManagementTests (2).java, LastStorageManagementTests.java, 
+GLOBAL VARIABLE: LIST_AMOUNT_LIMIT from FILE: LastStateStorageManagement.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: LastStateStorageManagement.java
+
+FILES: 
+GLOBAL VARIABLE: DEFAULT_WIDTH from FILE: LineAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: RESOURCES_STANDARDLINKSTYLE from FILE: LinkAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: LogFileViewer.java
+
+FILES: 
+GLOBAL VARIABLE: minimumSize from FILE: MainView.java
+
+FILES: 
+GLOBAL VARIABLE: maximumSize from FILE: MainView.java
+
+FILES: AttributeTableCellRenderer.java, EditNodeTextField.java, 
+GLOBAL VARIABLE: ZOOM_CORRECTION_FACTOR from FILE: MainView.java
+
+FILES: 
+GLOBAL VARIABLE: CANCEL from FILE: ManagePatternsPopupDialog.java
+
+FILES: 
+GLOBAL VARIABLE: OK from FILE: ManagePatternsPopupDialog.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: MapAdapter.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: TILE_CACHE_CLASS from FILE: MapDialog.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: FILE_TILE_CACHE_DIRECTORY from FILE: MapDialog.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: TILE_CACHE_MAX_AGE from FILE: MapDialog.java
+
+FILES: 
+GLOBAL VARIABLE: SEARCH_DISTANCE_COLUMN from FILE: MapDialog.java
+
+FILES: SearchInMapForNodeTextAction.java, ShowMapToNodeAction.java, 
+GLOBAL VARIABLE: MAP_HOOK_NAME from FILE: MapDialog.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: TILE_CACHE_PURGE_TIME from FILE: MapDialog.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: TILE_CACHE_PURGE_TIME_DEFAULT from FILE: MapDialog.java
+
+FILES: 
+GLOBAL VARIABLE: CIRCLE_RADIUS from FILE: MapMarkerBase.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: MapMarkerBase.java
+
+FILES: BrowseHookFactory.java, FreeMindMapController.java, RemoveMapToNodeAction.java, 
+GLOBAL VARIABLE: NODE_MAP_HOOK_NAME from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_MAP_LOCATION_ICON from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_POS_LON from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_POS_LAT from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_MAP_LON from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_MAP_LAT from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_ZOOM from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_TILE_SOURCE from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: XML_STORAGE_MAP_TOOLTIP_LOCATION from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_MAP_STORE_TOOLTIP from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_MAP_SHOW_TOOLTIP from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, 
+GLOBAL VARIABLE: TILE_SOURCE_MAP_QUEST_OPEN_MAP from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, 
+GLOBAL VARIABLE: TILE_SOURCE_TRANSPORT_MAP from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, 
+GLOBAL VARIABLE: TILE_SOURCE_CYCLE_MAP from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, 
+GLOBAL VARIABLE: TILE_SOURCE_MAPNIK from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, FreeMindMapController.java, 
+GLOBAL VARIABLE: SHORT_MAP_QUEST_OPEN_MAP from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, FreeMindMapController.java, 
+GLOBAL VARIABLE: SHORT_TRANSPORT_MAP from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, FreeMindMapController.java, 
+GLOBAL VARIABLE: SHORT_CYCLE_MAP from FILE: MapNodePositionHolderBase.java
+
+FILES: BrowseController.java, FreeMindMapController.java, 
+GLOBAL VARIABLE: SHORT_MAPNIK from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: sMapLocationIcon from FILE: MapNodePositionHolderBase.java
+
+FILES: 
+GLOBAL VARIABLE: CIRCLE_SELECTED_FACTOR from FILE: MapSearchMarkerLocation.java
+
+FILES: 
+GLOBAL VARIABLE: printOnWhiteBackground from FILE: MapView.java
+
+FILES: 
+GLOBAL VARIABLE: standardMapBackgroundColor from FILE: MapView.java
+
+FILES: BubbleMainView.java, NodeView.java, 
+GLOBAL VARIABLE: standardSelectColor from FILE: MapView.java
+
+FILES: 
+GLOBAL VARIABLE: standardSelectRectangleColor from FILE: MapView.java
+
+FILES: MindMapController.java, NodeView.java, 
+GLOBAL VARIABLE: standardNodeTextColor from FILE: MapView.java
+
+FILES: NodeView.java, 
+GLOBAL VARIABLE: standardDrawRectangleForSelection from FILE: MapView.java
+
+FILES: MainView.java, 
+GLOBAL VARIABLE: NEED_PREF_SIZE_BUG_FIX from FILE: MapView.java
+
+FILES: 
+GLOBAL VARIABLE: MENU_BAR_PREFIX from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: GENERAL_POPUP_PREFIX from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: POPUP_MENU from FILE: MenuBar.java
+
+FILES: MindMapController.java, 
+GLOBAL VARIABLE: INSERT_MENU from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: NAVIGATE_MENU from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: VIEW_MENU from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: HELP_MENU from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: MINDMAP_MENU from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: MODES_MENU from FILE: MenuBar.java
+
+FILES: BrowseController.java, FileController.java, SchemeController.java, 
+GLOBAL VARIABLE: EDIT_MENU from FILE: MenuBar.java
+
+FILES: SchemeController.java, 
+GLOBAL VARIABLE: FILE_MENU from FILE: MenuBar.java
+
+FILES: MindMapController.java, 
+GLOBAL VARIABLE: FORMAT_MENU from FILE: MenuBar.java
+
+FILES: 
+GLOBAL VARIABLE: EXTRAS_MENU from FILE: MenuBar.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: PROPERTY_STRING_ICONS_LIST from FILE: MindIcon.java
+
+FILES: IconAction.java, NodeAdapter.java, RemoveAllIconsAction.java, RemoveIconAction.java, XMLElementAdapter.java, 
+GLOBAL VARIABLE: LAST from FILE: MindIcon.java
+
+FILES: 
+GLOBAL VARIABLE: nextNumber from FILE: MindIcon.java
+
+FILES: 
+GLOBAL VARIABLE: NEW_CHILD_WITHOUT_FOCUS from FILE: MindMapActions.java
+
+FILES: 
+GLOBAL VARIABLE: NEW_CHILD from FILE: MindMapActions.java
+
+FILES: 
+GLOBAL VARIABLE: NEW_SIBLING_BEHIND from FILE: MindMapActions.java
+
+FILES: 
+GLOBAL VARIABLE: NEW_SIBLING_BEFORE from FILE: MindMapActions.java
+
+FILES: 
+GLOBAL VARIABLE: allRegistrations from FILE: MindMapHookFactory.java
+
+FILES: 
+GLOBAL VARIABLE: BORDER from FILE: MindMapLayout.java
+
+FILES: 
+GLOBAL VARIABLE: MINIMAL_LEAF_WIDTH from FILE: MindMapLayout.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: MindMapLayout.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: MindMapLinkRegistry.java
+
+FILES: EncryptedMindMapNode.java, PasteAction.java, 
+GLOBAL VARIABLE: MAP_INITIAL_START from FILE: MindMapMapModel.java
+
+FILES: 
+GLOBAL VARIABLE: RESTORE_MODE_MIND_MAP from FILE: MindMapMapModel.java
+
+FILES: ToolsTests (2).java, ToolsTests.java, 
+GLOBAL VARIABLE: FREEMIND_VERSION_UPDATER_XSLT from FILE: MindMapMapModel.java
+
+FILES: 
+GLOBAL VARIABLE: EXPECTED_START_STRINGS from FILE: MindMapMapModel.java
+
+FILES: MindMapClient.java, 
+GLOBAL VARIABLE: SOCKET_TIMEOUT_IN_MILLIES from FILE: MindMapMaster.java
+
+FILES: BubbleMainView.java, MindMapController.java, NodeAdapter.java, NodeViewFactory.java, OptionPanel.java, 
+GLOBAL VARIABLE: STYLE_BUBBLE from FILE: MindMapNode.java
+
+FILES: FileNodeModel.java, ForkMainView.java, MindMapController.java, NodeAdapter.java, NodeViewFactory.java, OptionPanel.java, 
+GLOBAL VARIABLE: STYLE_FORK from FILE: MindMapNode.java
+
+FILES: NodeAdapter.java, OptionPanel.java, 
+GLOBAL VARIABLE: STYLE_COMBINED from FILE: MindMapNode.java
+
+FILES: NodeAdapter.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: STYLE_AS_PARENT from FILE: MindMapNode.java
+
+FILES: OptionPanel.java, StylePatternFrame.java, 
+GLOBAL VARIABLE: NODE_STYLES from FILE: MindMapNode.java
+
+FILES: ControllerAdapter.java, PasteAction.java, 
+GLOBAL VARIABLE: mindMapNodesFlavor from FILE: MindMapNodesSelection.java
+
+FILES: PasteAction.java, 
+GLOBAL VARIABLE: rtfFlavor from FILE: MindMapNodesSelection.java
+
+FILES: PasteAction.java, 
+GLOBAL VARIABLE: htmlFlavor from FILE: MindMapNodesSelection.java
+
+FILES: MindMapNodeDropListener.java, PasteAction.java, 
+GLOBAL VARIABLE: fileListFlavor from FILE: MindMapNodesSelection.java
+
+FILES: MindMapNodeDropListener.java, 
+GLOBAL VARIABLE: dropActionFlavor from FILE: MindMapNodesSelection.java
+
+FILES: ClonePasteAction.java, 
+GLOBAL VARIABLE: copyNodeIdsFlavor from FILE: MindMapNodesSelection.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: MindMapToolBar.java
+
+FILES: EncryptedBrowseNode.java, EncryptedMindMapNode.java, PasteAction.java, 
+GLOBAL VARIABLE: NODESEPARATOR from FILE: ModeController.java
+
+FILES: 
+GLOBAL VARIABLE: SHIFT from FILE: NodeAdapter.java
+
+FILES: MindMapNodeMotionListener.java, MoveNodeAction.java, 
+GLOBAL VARIABLE: HGAP from FILE: NodeAdapter.java
+
+FILES: MindMapNodeMotionListener.java, MoveNodeAction.java, 
+GLOBAL VARIABLE: VGAP from FILE: NodeAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: LEFT_POSITION from FILE: NodeAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: RIGHT_POSITION from FILE: NodeAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: UNKNOWN_POSITION from FILE: NodeAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: NodeAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: COMPARATION_RESULT from FILE: NodeCompareCondition.java
+
+FILES: 
+GLOBAL VARIABLE: VALUE from FILE: NodeCompareCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: NodeCompareCondition.java
+
+FILES: 
+GLOBAL VARIABLE: SUCCEED from FILE: NodeCompareCondition.java
+
+FILES: 
+GLOBAL VARIABLE: VALUE from FILE: NodeContainsCondition.java
+
+FILES: ConditionFactory.java, 
+GLOBAL VARIABLE: NAME from FILE: NodeContainsCondition.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: NodeFoldingComponent.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: NodeGeneralAction.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: NodeMotionListenerView.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_NOTE_PLUGIN from FILE: NodeNote.java
+
+FILES: NodeNoteRegistration.java, 
+GLOBAL VARIABLE: EMPTY_EDITOR_STRING from FILE: NodeNote.java
+
+FILES: NodeNoteRegistration.java, 
+GLOBAL VARIABLE: EMPTY_EDITOR_STRING_ALTERNATIVE from FILE: NodeNote.java
+
+FILES: NodeNoteRegistration.java, 
+GLOBAL VARIABLE: EMPTY_EDITOR_STRING_ALTERNATIVE2 from FILE: NodeNote.java
+
+FILES: BrowseController.java, FilterController.java, NodeNoteRegistration.java, 
+GLOBAL VARIABLE: NODE_NOTE_ICON from FILE: NodeNoteBase.java
+
+FILES: NodeNote.java, 
+GLOBAL VARIABLE: sPositionToRecover from FILE: NodeNoteRegistration.java
+
+FILES: MainView.java, RootMainView.java, 
+GLOBAL VARIABLE: dragColor from FILE: NodeView.java
+
+FILES: MainView.java, MindMapNodeDropListener.java, 
+GLOBAL VARIABLE: DRAGGED_OVER_NO from FILE: NodeView.java
+
+FILES: MainView.java, RootMainView.java, 
+GLOBAL VARIABLE: DRAGGED_OVER_SON from FILE: NodeView.java
+
+FILES: MainView.java, 
+GLOBAL VARIABLE: DRAGGED_OVER_SIBLING from FILE: NodeView.java
+
+FILES: RootMainView.java, 
+GLOBAL VARIABLE: DRAGGED_OVER_SON_LEFT from FILE: NodeView.java
+
+FILES: ForkMainView.java, 
+GLOBAL VARIABLE: ALIGN_BOTTOM from FILE: NodeView.java
+
+FILES: BubbleMainView.java, RootMainView.java, 
+GLOBAL VARIABLE: ALIGN_CENTER from FILE: NodeView.java
+
+FILES: 
+GLOBAL VARIABLE: ALIGN_TOP from FILE: NodeView.java
+
+FILES: NodeViewLayoutAdapter.java, 
+GLOBAL VARIABLE: SPACE_AROUND from FILE: NodeView.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: NodeViewLayoutAdapter.java
+
+FILES: CutAction.java, DeleteChildAction.java, DontShowAgainDialogTests (2).java, DontShowAgainDialogTests.java, MindMapMapModel.java, RemoveNote.java, ScriptingEngine.java, SearchInMapForNodeTextAction.java, 
+GLOBAL VARIABLE: ONLY_OK_SELECTION_IS_STORED from FILE: OptionalDontShowMeAgainDialog.java
+
+FILES: ClonePasteAction.java, DontShowAgainDialogTests (2).java, DontShowAgainDialogTests.java, EditAction.java, MindMapController.java, 
+GLOBAL VARIABLE: BOTH_OK_AND_CANCEL_OPTIONS_ARE_STORED from FILE: OptionalDontShowMeAgainDialog.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: OptionalDontShowMeAgainDialog.java
+
+FILES: 
+GLOBAL VARIABLE: changeListeners from FILE: OptionPanel.java
+
+FILES: 
+GLOBAL VARIABLE: nonLinkCharacter from FILE: PasteAction.java
+
+FILES: NodeHookAction.java, 
+GLOBAL VARIABLE: PARAMETERS from FILE: PermanentNodeHookAdapter.java
+
+FILES: BrowseHookFactory.java, 
+GLOBAL VARIABLE: PLUGIN_LABEL from FILE: ReminderHookBase.java
+
+FILES: TimeManagement.java, 
+GLOBAL VARIABLE: REMINDUSERAT from FILE: ReminderHookBase.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: NODE_CONTEXT_PLUGIN_NAME from FILE: RemoveMapToNodeAction.java
+
+FILES: 
+GLOBAL VARIABLE: resourcesInstance from FILE: Resources.java
+
+FILES: 
+GLOBAL VARIABLE: alreadyUsed from FILE: RevisionPlugin.java
+
+FILES: ScriptEditor.java, 
+GLOBAL VARIABLE: SCRIPT_PREFIX from FILE: ScriptingEngine.java
+
+FILES: ScriptingRegistration.java, 
+GLOBAL VARIABLE: logger from FILE: ScriptingEngine.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: NODE_CONTEXT_PLUGIN_NAME from FILE: SearchInMapForNodeTextAction.java
+
+FILES: Registration.java, 
+GLOBAL VARIABLE: NODE_CONTEXT_PLUGIN_NAME from FILE: ShowMapToNodeAction.java
+
+FILES: SignedScriptTests (2).java, SignedScriptTests.java, 
+GLOBAL VARIABLE: FREEMIND_SCRIPT_KEY_NAME from FILE: SignedScriptHandler.java
+
+FILES: 
+GLOBAL VARIABLE: MASTER_HOOK_LABEL from FILE: SocketBasics.java
+
+FILES: ClientCommunication.java, 
+GLOBAL VARIABLE: SLAVE_HOOK_LABEL from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: SLAVE_STARTER_LABEL from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: ROLE_MASTER from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: ROLE_SLAVE from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD_DESCRIPTION from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD_VERIFICATION from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PASSWORD_VERIFICATION_DESCRIPTION from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: HOST from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: HOST_DESCRIPTION from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PORT from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: PORT_DESCRIPTION from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: TITLE from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: UNKNWON_HOST_EXCEPTION_MESSAGE from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: CONNECT_EXCEPTION_MESSAGE from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: SOCKET_CREATION_EXCEPTION_MESSAGE from FILE: SocketBasics.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: SocketBasics.java
+
+FILES: FreeMind.java, 
+GLOBAL VARIABLE: STDOUT from FILE: StdFormatter.java
+
+FILES: FreeMind.java, 
+GLOBAL VARIABLE: STDERR from FILE: StdFormatter.java
+
+FILES: OptionPanel.java, 
+GLOBAL VARIABLE: AMOUNT_OF_VISIBLE_MENU_ITEMS from FILE: StructuredMenuHolder.java
+
+FILES: ScriptEditorPanel.java, 
+GLOBAL VARIABLE: ICON_SIZE from FILE: StructuredMenuHolder.java
+
+FILES: 
+GLOBAL VARIABLE: FALSE_VALUE from FILE: StylePatternFactory.java
+
+FILES: 
+GLOBAL VARIABLE: TRUE_VALUE from FILE: StylePatternFactory.java
+
+FILES: 
+GLOBAL VARIABLE: WITHOUT_NAME_AND_CHILDS from FILE: StylePatternFrame.java
+
+FILES: 
+GLOBAL VARIABLE: WITH_NAME_AND_CHILDS from FILE: StylePatternFrame.java
+
+FILES: 
+GLOBAL VARIABLE: DESCENDING from FILE: TableSorter.java
+
+FILES: 
+GLOBAL VARIABLE: NOT_SORTED from FILE: TableSorter.java
+
+FILES: MapDialog.java, TimeList.java, 
+GLOBAL VARIABLE: ASCENDING from FILE: TableSorter.java
+
+FILES: MapDialog.java, TimeList.java, 
+GLOBAL VARIABLE: COMPARABLE_COMAPRATOR from FILE: TableSorter.java
+
+FILES: MapDialog.java, TimeList.java, 
+GLOBAL VARIABLE: LEXICAL_COMPARATOR from FILE: TableSorter.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: TerminateableThread.java
+
+FILES: StylePatternFrame.java, 
+GLOBAL VARIABLE: FALSE_VALUE from FILE: ThreeCheckBoxProperty.java
+
+FILES: StylePatternFrame.java, 
+GLOBAL VARIABLE: TRUE_VALUE from FILE: ThreeCheckBoxProperty.java
+
+FILES: StylePatternFrame.java, 
+GLOBAL VARIABLE: DON_T_TOUCH_VALUE from FILE: ThreeCheckBoxProperty.java
+
+FILES: 
+GLOBAL VARIABLE: DON_T_TOUCH_VALUE_INT from FILE: ThreeCheckBoxProperty.java
+
+FILES: 
+GLOBAL VARIABLE: TRUE_VALUE_INT from FILE: ThreeCheckBoxProperty.java
+
+FILES: 
+GLOBAL VARIABLE: FALSE_VALUE_INT from FILE: ThreeCheckBoxProperty.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_TEXT_COLUMN from FILE: TimeList.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_ICON_COLUMN from FILE: TimeList.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_CREATED_COLUMN from FILE: TimeList.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_MODIFIED_COLUMN from FILE: TimeList.java
+
+FILES: 
+GLOBAL VARIABLE: NODE_NOTES_COLUMN from FILE: TimeList.java
+
+FILES: RemoveReminderHook.java, 
+GLOBAL VARIABLE: REMINDER_HOOK_NAME from FILE: TimeManagement.java
+
+FILES: 
+GLOBAL VARIABLE: FREEMIND_LIB_FREEMIND_JAR from FILE: Tools.java
+
+FILES: 
+GLOBAL VARIABLE: CONTENTS_JAVA_FREEMIND_JAR from FILE: Tools.java
+
+FILES: 
+GLOBAL VARIABLE: FREE_MIND_APP_CONTENTS_RESOURCES_JAVA from FILE: Tools.java
+
+FILES: 
+GLOBAL VARIABLE: executableExtensions from FILE: Tools.java
+
+FILES: Tools.java, 
+GLOBAL VARIABLE: ran from FILE: Tools.java
+
+FILES: 
+GLOBAL VARIABLE: JAVA_VERSION from FILE: Tools.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: UndoAction.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: UndoPasteHandler.java
+
+FILES: BezierEdgeView.java, 
+GLOBAL VARIABLE: USE_COMMON_OUT_POINT_FOR_ROOT_NODE from FILE: VerticalRootNodeViewLayout.java
+
+FILES: HtmlConversionTests (2).java, HtmlConversionTests.java, 
+GLOBAL VARIABLE: XML_NODE_XHTML_CONTENT_TAG from FILE: XMLElement.java
+
+FILES: HtmlConversionTests (2).java, HtmlConversionTests.java, 
+GLOBAL VARIABLE: XML_NODE_XHTML_CONTENT_END_TAG_REGEXP from FILE: XMLElement.java
+
+FILES: 
+GLOBAL VARIABLE: serialVersionUID from FILE: XMLElement.java
+
+FILES: 
+GLOBAL VARIABLE: NANOXML_MAJOR_VERSION from FILE: XMLElement.java
+
+FILES: 
+GLOBAL VARIABLE: NANOXML_MINOR_VERSION from FILE: XMLElement.java
+
+FILES: 
+GLOBAL VARIABLE: logger from FILE: XMLElementAdapter.java
+
+FILES: NodeAdapter.java, 
+GLOBAL VARIABLE: XML_NODE_TEXT from FILE: XMLElementAdapter.java
+
+FILES: AttributeRegistry.java, AttributeRegistryElement.java, NodeAdapter.java, NodeAttributeTableModel.java, 
+GLOBAL VARIABLE: XML_NODE from FILE: XMLElementAdapter.java
+
+FILES: AttributeRegistry.java, NodeAttributeTableModel.java, 
+GLOBAL VARIABLE: XML_NODE_ATTRIBUTE from FILE: XMLElementAdapter.java
+
+FILES: NodeAttributeTableModel.java, 
+GLOBAL VARIABLE: XML_NODE_ATTRIBUTE_LAYOUT from FILE: XMLElementAdapter.java
+
+FILES: AttributeRegistry.java, 
+GLOBAL VARIABLE: XML_NODE_ATTRIBUTE_REGISTRY from FILE: XMLElementAdapter.java
+
+FILES: AttributeRegistryElement.java, 
+GLOBAL VARIABLE: XML_NODE_REGISTERED_ATTRIBUTE_NAME from FILE: XMLElementAdapter.java
+
+FILES: AttributeRegistryElement.java, 
+GLOBAL VARIABLE: XML_NODE_REGISTERED_ATTRIBUTE_VALUE from FILE: XMLElementAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: XML_NODE_CLASS from FILE: XMLElementAdapter.java
+
+FILES: 
+GLOBAL VARIABLE: XML_NODE_ADDITIONAL_INFO from FILE: XMLElementAdapter.java
+
+FILES: NodeAdapter.java, 
+GLOBAL VARIABLE: XML_NODE_ENCRYPTED_CONTENT from FILE: XMLElementAdapter.java
+
+FILES: NodeAdapter.java, 
+GLOBAL VARIABLE: XML_NODE_HISTORY_CREATED_AT from FILE: XMLElementAdapter.java
+
+FILES: NodeAdapter.java, 
+GLOBAL VARIABLE: XML_NODE_HISTORY_LAST_MODIFIED_AT from FILE: XMLElementAdapter.java
+
+FILES: NodeAdapter.java, 
+GLOBAL VARIABLE: XML_NODE_XHTML_TYPE_TAG from FILE: XMLElementAdapter.java
+
+FILES: NodeAdapter.java, 
+GLOBAL VARIABLE: XML_NODE_XHTML_TYPE_NODE from FILE: XMLElementAdapter.java
+
+FILES: NodeAdapter.java, 
+GLOBAL VARIABLE: XML_NODE_XHTML_TYPE_NOTE from FILE: XMLElementAdapter.java
+
+FILES: XMLParseException.java, 
+GLOBAL VARIABLE: NO_LINE from FILE: XMLParseException.java
+
