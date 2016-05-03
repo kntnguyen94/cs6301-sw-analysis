@@ -1,0 +1,105 @@
+LIST OF EXTERNAL FILES FROM DIRECTORY USED IN JAVA SYSTEM
+
+designer.png -------- AddArrowLinkAction.java
+LinkLocal.png -------- AddLocalLinkAction.java
+edit12.png -------- AttributeManagerDialog.java
+checkbox12.png -------- AttributeRegistryTable.java
+Bold16.gif -------- BoldAction.java
+knotes.png -------- BrowseController.java
+designer.png -------- ChangeArrowLinkEndPoints.java
+clone.png -------- ClonePasteAction.java
+clone_original.png -------- ClonePasteAction.java
+Cloud24.gif -------- CloudAction.java
+Colors24.gif -------- CloudColorAction.java
+Colors24.gif -------- ColorArrowLinkAction.java
+freemind_actions.xsd -------- CompileXsdStart.java
+1leftarrow.png -------- Controller.java
+1rightarrow.png -------- Controller.java
+back.png -------- Controller.java
+draw-arrow-back.png -------- Controller.java
+draw-arrow-forward.png -------- Controller.java
+fileprint.png -------- Controller.java
+filter.gif -------- Controller.java
+forward.png -------- Controller.java
+license -------- Controller.java
+Link.png -------- Controller.java
+showAttributes.gif -------- Controller.java
+fileopen.png -------- ControllerAdapter.java
+filesave.png -------- ControllerAdapter.java
+filesaveas.png -------- ControllerAdapter.java
+editcopy.png -------- CopyAction.java
+editcut.png -------- CutAction.java
+editdelete.png -------- DeleteChildAction.java
+testmap.mm -------- ExportTests (2).java
+TMAP -------- ExportTests (2).java
+testmap.mm -------- ExportTests.java
+TMAP -------- ExportTests.java
+knotes.png -------- FilterController.java
+showAttributes.gif -------- FilterController.java
+Btn_edit.gif -------- FilterToolbar.java
+unfold.png -------- FilterToolbar.java
+filefind.png -------- FindAction.java
+filefind_big.png -------- FindAction.java
+FreeMindWindowIcon.png -------- FreeMind.java
+version.properties -------- FreeMind.java
+freemind.properties -------- FreeMindApplet.java
+freemind.hs -------- FreemindHelpStarter.java
+76812-freemind_v0.4.png -------- FreeMindSplashModern.java
+Freemind_Splash_Butterfly_Modern.png -------- FreeMindSplashModern.java
+freemind.properties -------- FreeMindStarter.java
+Link.png -------- GotoLinkNodeAction.java
+mindmanager2mm.xsl -------- ImportMindmanagerFiles.java
+Italic16.gif -------- ItalicAction.java
+clear_box.png -------- MapDialog.java
+map_location.png -------- MapNodePositionHolderBase.java
+license -------- MenuBar.java
+IconNotFound.png -------- MindIcon.java
+arrow-mode-backward.png -------- MindMapController.java
+arrow-mode-both.png -------- MindMapController.java
+arrow-mode-forward.png -------- MindMapController.java
+arrow-mode-none.png -------- MindMapController.java
+forward.png -------- MindMapController.java
+mindmap_menus.xml -------- MindMapController.java
+patterns.xml -------- MindMapController.java
+patterns_updater.xslt -------- MindMapController.java
+freemind_version_updater.xslt -------- MindMapMapModel.java
+idea.png -------- NewChildAction.java
+filenew.png -------- NewMapAction.java
+showAttributes.gif -------- NodeAttributeTableModel.java
+knotes.png -------- NodeNoteRegistration.java
+knotes.png -------- NodeNoteViewer.java
+Executable.png -------- NodeView.java
+Link.png -------- NodeView.java
+LinkLocal.png -------- NodeView.java
+Mail.png -------- NodeView.java
+help.png -------- OptionalDontShowMeAgainDialog.java
+editpaste.png -------- PasteAction.java
+Back24.gif -------- PreviewDialog.java
+Forward24.gif -------- PreviewDialog.java
+ZoomIn24.gif -------- PreviewDialog.java
+ZoomOut24.gif -------- PreviewDialog.java
+redo.png -------- RedoAction.java
+TimeManagement.xml -------- ReminderHookBase.java
+edittrash.png -------- RemoveAllIconsAction.java
+edittrash.png -------- RemoveArrowLinkAction.java
+remove.png -------- RemoveIconAction.java
+button_ok.png -------- StructuredMenuHolder.java
+edit_add.png -------- ThreeCheckBoxProperty.java
+edit_remove.png -------- ThreeCheckBoxProperty.java
+remove.png -------- ThreeCheckBoxProperty.java
+TimeManagement.xml -------- TimeList.java
+TimeManagement.xml -------- TimeManagement.java
+FM_Key_Mappings_Quick_Guide.pdf -------- ToolsTests (2).java
+FM_Key_Mappings_Quick_Guide.pdf -------- ToolsTests.java
+applet.htm -------- TransformTest (2).java
+ExportToOoWriter.xml -------- TransformTest (2).java
+ExportWithXSLT.xml -------- TransformTest (2).java
+testmap.mm -------- TransformTest (2).java
+TMAP -------- TransformTest (2).java
+applet.htm -------- TransformTest.java
+ExportToOoWriter.xml -------- TransformTest.java
+ExportWithXSLT.xml -------- TransformTest.java
+testmap.mm -------- TransformTest.java
+TMAP -------- TransformTest.java
+Underline24.gif -------- UnderlinedAction.java
+undo.png -------- UndoAction.java
